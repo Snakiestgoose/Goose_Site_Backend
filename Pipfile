@@ -1,0 +1,6 @@
+[packages]
+flask
+redis
+
+[requires]
+python_version = "3.9"
